@@ -10,6 +10,9 @@
 a {
     cursor:pointer;
     text-decoration: none;
+}
+
+.menu a {
     color:cornsilk;
     font-weight: bolder;
     font-size: 25px;
