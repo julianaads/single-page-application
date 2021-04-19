@@ -1,0 +1,20 @@
+{
+  "name": "single-page-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianaads/single-page-application.git"
+  },
+  "author": "Juliana Souza",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/julianaads/single-page-application/issues"
+  },
+  "homepage": "https://github.com/julianaads/single-page-application#readme"
+}
