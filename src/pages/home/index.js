@@ -1,13 +1,22 @@
 export default () => {
     const container = document.createElement('div');
-
-
+    
     const template = `
-    <h1> Olá Otakus <h1>
+    <div class="slider">
+    <figure>
+      <img src="img/imagem-01.jpg">
+      <img src="img/imagem-02.png">
+      <img src="img/naruto.jpg">
+    </figure>
+  
+  </div>
 
     `;
 
+      
     container.innerHTML = template;
+    
+        return container
 
-    return container
 }
+

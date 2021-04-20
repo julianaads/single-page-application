@@ -3,7 +3,8 @@ export default () => {
 
 
     const template = `
-    <h2> Vamos biscoitar nossos personagens preferidos? <h2>
+    <h2 class="titulo-principal-characters"> Vamos biscoitar nossos personagens preferidos? <h2>
+
     
     `;
 
